@@ -12,7 +12,7 @@ def check_flag(msg):
 
 def get_imgpaths(original_imgs=True):
 	""" Get the image paths on the "imgs/" dir. This way, the program
-	can work with multiple images.
+	can work with multiple images
 	"""
 	imgsdir = os.path.join(os.getcwd(), "imgs")
 	if original_imgs:
