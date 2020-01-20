@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Execute the program
 ```console
-python3 image.py
+python3 modify-img.py
 ```
 
 
