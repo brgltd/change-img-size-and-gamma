@@ -23,12 +23,18 @@ Execute the program
 python3 image.py
 ```
 
-<img
-  alt="Original"
-  src=https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img.jpg
-  width=500
-/>
+<p align="center">
+  <img
+    alt="Original"
+    src=https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img.jpg
+    width=500
+  />
+</p>
 
-![alt text](https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img.jpg)
-
-![alt text](https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img-gamma(3)-resized(1000x1000).jpg)
+<p align="center"
+  <img
+    alt="Original"
+    src=https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img-gamma(3)-resized(1000x1000).jpg
+    width=1000
+  />
+</p>
