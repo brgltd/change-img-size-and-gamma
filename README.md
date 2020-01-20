@@ -4,12 +4,12 @@ Simple program to increase or decrease the size of an image. It also allows the 
 
 Usage:
 
-Create a python virtual envorionment
+Create a python virtual environment
 ```console
 python3 -m venv change-img-venv
 ```
 
-Activate the virtual envorionment
+Activate the virtual environment
 ```console
 windows: change-img-venv\Scripts\activate.bat
 unix or mac: source change-img-venv/bin/activate
