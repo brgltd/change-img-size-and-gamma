@@ -1,5 +1,7 @@
 Simple program to increase or decrease the size of an image. It also allows the modification of the gamma level in an image (gamma correction).
 
+
+
 Usage:
 
 Create a python virtual envorionment
@@ -22,6 +24,8 @@ Execute the program
 ```console
 python3 image.py
 ```
+
+
 
 Results:
 
