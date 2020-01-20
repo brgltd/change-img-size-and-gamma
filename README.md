@@ -34,7 +34,7 @@ python3 image.py
 <p align="center">
   <img
     alt="Original"
-    src=https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img.jpg
-    width=500
+    src=https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img-gamma(3)-resized(1000x1000).jpg
+    width=1000
   />
 </p>
