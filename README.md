@@ -23,6 +23,11 @@ Execute the program
 python3 image.py
 ```
 
+<img
+  alt="Original"
+  src=https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img.jpg
+  width=500
+/>
 
 ![alt text](https://github.com/ReinaldoSalla/change-img-size-and-gamma/blob/master/imgs/img.jpg)
 
