@@ -48,7 +48,7 @@ def convert_imgsize(flag_gamma):
 		height = int(input("Type the desired image height: "))
 		imgpaths = get_imgpaths(False) if flag_gamma == 'y' else get_imgpaths(True)
 		for imgpath in imgpaths:
-			img = Image.open(imgpath) # usefull methods: img.size, img.format, img.mode
+			img = Image.open(imgpath) # useful methods: img.size, img.format, img.mode
 			new_img = img.resize((width, height), Image.HAMMING)
 			new_imgpath = imgpath.replace('.', f"-resized({width}x{height}).")
 			new_img.save(new_imgpath)
